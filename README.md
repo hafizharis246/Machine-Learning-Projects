@@ -13,9 +13,9 @@ This repository serves as a central hub where you can explore my Machine Learnin
 
 ---
 
-### 2. Thyroid Disease Recurrence Classifier
-- **Description:** The project focuses on building a classification model to predict the recurrence of thyroid disease in patients based on clinical and demographic features. By leveraging machine learning techniques, the goal is to assist in early detection and better treatment planning.  
-- **Link:** [Thyroid Disease Recurrence Classifier Repository](https://github.com/hafizharis246/thyroid_disease_recurrence_classifier)
+### 2. Brain Tumor Detection using Deep Learning
+- **Description:** The project helps on building a classification model to predict different types of Brain Tumors in MRI Scans by using transfer learning techniques.  
+- **Link:** [Brain Tumor Detection Repository](https://github.com/hafizharis246/brain-tumor-classification-using-deep-learning)
 
 ---
 
